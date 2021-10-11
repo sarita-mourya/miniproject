@@ -1,0 +1,22 @@
+{
+  "name": "miniproject",
+  "version": "1.0.0",
+  "description": "html pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarita-mourya/miniproject.git"
+  },
+  "keywords": [
+    "empty"
+  ],
+  "author": "empty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarita-mourya/miniproject/issues"
+  },
+  "homepage": "https://github.com/sarita-mourya/miniproject#readme"
+}
